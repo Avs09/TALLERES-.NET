@@ -1,0 +1,16 @@
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio18\obj\Debug\net5.0\ejercisio18.csproj.AssemblyReference.cache
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio18\obj\Debug\net5.0\ejercisio18.GeneratedMSBuildEditorConfig.editorconfig
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio18\obj\Debug\net5.0\ejercisio18.AssemblyInfoInputs.cache
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio18\obj\Debug\net5.0\ejercisio18.AssemblyInfo.cs
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio18\obj\Debug\net5.0\ejercisio18.csproj.CoreCompileInputs.cache
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio18\bin\Debug\net5.0\ejercisio18.exe
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio18\bin\Debug\net5.0\ejercisio18.deps.json
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio18\bin\Debug\net5.0\ejercisio18.runtimeconfig.json
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio18\bin\Debug\net5.0\ejercisio18.runtimeconfig.dev.json
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio18\bin\Debug\net5.0\ejercisio18.dll
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio18\bin\Debug\net5.0\ref\ejercisio18.dll
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio18\bin\Debug\net5.0\ejercisio18.pdb
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio18\obj\Debug\net5.0\ejercisio18.dll
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio18\obj\Debug\net5.0\ref\ejercisio18.dll
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio18\obj\Debug\net5.0\ejercisio18.pdb
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio18\obj\Debug\net5.0\ejercisio18.genruntimeconfig.cache
