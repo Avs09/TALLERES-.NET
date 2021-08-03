@@ -1,0 +1,16 @@
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio22\obj\Debug\net5.0\ejercisio22.csproj.AssemblyReference.cache
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio22\obj\Debug\net5.0\ejercisio22.GeneratedMSBuildEditorConfig.editorconfig
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio22\obj\Debug\net5.0\ejercisio22.AssemblyInfoInputs.cache
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio22\obj\Debug\net5.0\ejercisio22.AssemblyInfo.cs
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio22\obj\Debug\net5.0\ejercisio22.csproj.CoreCompileInputs.cache
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio22\bin\Debug\net5.0\ejercisio22.exe
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio22\bin\Debug\net5.0\ejercisio22.deps.json
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio22\bin\Debug\net5.0\ejercisio22.runtimeconfig.json
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio22\bin\Debug\net5.0\ejercisio22.runtimeconfig.dev.json
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio22\bin\Debug\net5.0\ejercisio22.dll
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio22\bin\Debug\net5.0\ref\ejercisio22.dll
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio22\bin\Debug\net5.0\ejercisio22.pdb
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio22\obj\Debug\net5.0\ejercisio22.dll
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio22\obj\Debug\net5.0\ref\ejercisio22.dll
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio22\obj\Debug\net5.0\ejercisio22.pdb
+E:\SENA\Trimestre 3\Talleres .NET\Taller1\ejercisio22\obj\Debug\net5.0\ejercisio22.genruntimeconfig.cache
