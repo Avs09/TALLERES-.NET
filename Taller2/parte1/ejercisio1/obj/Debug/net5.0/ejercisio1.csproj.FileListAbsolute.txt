@@ -1,0 +1,16 @@
+E:\SENA\Trimestre 3\Talleres .NET\Taller2\parte1\ejercisio1\obj\Debug\net5.0\ejercisio1.csproj.AssemblyReference.cache
+E:\SENA\Trimestre 3\Talleres .NET\Taller2\parte1\ejercisio1\obj\Debug\net5.0\ejercisio1.GeneratedMSBuildEditorConfig.editorconfig
+E:\SENA\Trimestre 3\Talleres .NET\Taller2\parte1\ejercisio1\obj\Debug\net5.0\ejercisio1.AssemblyInfoInputs.cache
+E:\SENA\Trimestre 3\Talleres .NET\Taller2\parte1\ejercisio1\obj\Debug\net5.0\ejercisio1.AssemblyInfo.cs
+E:\SENA\Trimestre 3\Talleres .NET\Taller2\parte1\ejercisio1\obj\Debug\net5.0\ejercisio1.csproj.CoreCompileInputs.cache
+E:\SENA\Trimestre 3\Talleres .NET\Taller2\parte1\ejercisio1\bin\Debug\net5.0\ejercisio1.exe
+E:\SENA\Trimestre 3\Talleres .NET\Taller2\parte1\ejercisio1\bin\Debug\net5.0\ejercisio1.deps.json
+E:\SENA\Trimestre 3\Talleres .NET\Taller2\parte1\ejercisio1\bin\Debug\net5.0\ejercisio1.runtimeconfig.json
+E:\SENA\Trimestre 3\Talleres .NET\Taller2\parte1\ejercisio1\bin\Debug\net5.0\ejercisio1.runtimeconfig.dev.json
+E:\SENA\Trimestre 3\Talleres .NET\Taller2\parte1\ejercisio1\bin\Debug\net5.0\ejercisio1.dll
+E:\SENA\Trimestre 3\Talleres .NET\Taller2\parte1\ejercisio1\bin\Debug\net5.0\ref\ejercisio1.dll
+E:\SENA\Trimestre 3\Talleres .NET\Taller2\parte1\ejercisio1\bin\Debug\net5.0\ejercisio1.pdb
+E:\SENA\Trimestre 3\Talleres .NET\Taller2\parte1\ejercisio1\obj\Debug\net5.0\ejercisio1.dll
+E:\SENA\Trimestre 3\Talleres .NET\Taller2\parte1\ejercisio1\obj\Debug\net5.0\ref\ejercisio1.dll
+E:\SENA\Trimestre 3\Talleres .NET\Taller2\parte1\ejercisio1\obj\Debug\net5.0\ejercisio1.pdb
+E:\SENA\Trimestre 3\Talleres .NET\Taller2\parte1\ejercisio1\obj\Debug\net5.0\ejercisio1.genruntimeconfig.cache
