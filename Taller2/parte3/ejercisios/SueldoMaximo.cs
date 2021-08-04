@@ -8,6 +8,10 @@ namespace ejercisios
 
         public SueldoMaximo()
         {
+            Console.WriteLine("\nSelecionaste la opcion 2 --> saber el sueldo maximo de diferentes sueldos");
+
+            Console.WriteLine("*** BIENVENIDO AL PROGRAMA ***\n");
+            
             Console.Write("Ingrese un numero: ");
 
             numero = double.Parse(Console.ReadLine());

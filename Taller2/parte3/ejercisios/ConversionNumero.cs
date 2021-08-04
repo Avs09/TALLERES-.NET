@@ -9,6 +9,10 @@ namespace ejercisios
 
         public ConversionNumero()
         {
+            Console.WriteLine("\nSelecionaste la opcion 3 --> convertir un numero a letras");
+
+            Console.WriteLine("*** BIENVENIDO AL PROGRAMA ***\n");
+
             Console.Write("Ingrese un numero entre 0 y 99: ");
 
             numero = int.Parse(Console.ReadLine());

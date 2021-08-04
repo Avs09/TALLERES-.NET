@@ -8,6 +8,10 @@ namespace ejercisios
 
         public VocalConsonante()
         {
+            Console.WriteLine("\nSelecionaste la opcion 4 --> saber si una letra es vocal o consonante");
+
+            Console.WriteLine("*** BIENVENIDO AL PROGRAMA ***\n");
+            
             Console.Write("Ingrese una letra del abecedario: ");
 
             letra = Convert.ToChar(Console.ReadLine());

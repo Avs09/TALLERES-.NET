@@ -8,6 +8,10 @@ namespace ejercisios
 
         public NumerosPrimos()
         {
+            Console.WriteLine("\n Selecionaste la opcion 1 --> saber la cantidad de numeros primos de un numero aleatorio");
+
+            Console.WriteLine("*** BIENVENIDO AL PROGRAMA ***\n");
+            
             Console.Write("Ingrese un numero aleatorio: ");
 
             numero = int.Parse(Console.ReadLine());
